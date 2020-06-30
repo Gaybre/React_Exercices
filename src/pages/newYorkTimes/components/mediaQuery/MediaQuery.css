@@ -1,0 +1,23 @@
+@media screen and (max-width: 768px) {
+    .principal {
+        grid-template: auto auto 50px / 1fr;
+        grid-template-areas: "up"
+                             "midle"
+                             "down";
+    }
+    .pincipal__left {
+        border-left: 2px solid #000;
+        border-right: 2px solid #000;
+        grid-area: up;
+    }
+    .principal__center {
+        grid-area: midle;
+    }
+    .principal__right {
+        grid-area: down;
+        border-top: none;
+    }
+    .article__two-column {
+        column-count: 2;
+    }
+}

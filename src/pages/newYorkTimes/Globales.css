@@ -1,0 +1,21 @@
+@import './components/mediaQuery/MediaQuery.css';
+
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+main {
+    padding-bottom: 20px;
+}
+.container {
+    display: grid;
+    grid-template: auto auto 1fr / 1fr;
+    margin: 0 10%;
+}
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+    text-align: center;
+}

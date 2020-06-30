@@ -1,0 +1,17 @@
+.principal__center {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+.principal__center article {
+    border-bottom: 2px solid black;
+    padding-bottom: 15px;
+}
+figure {
+    margin: 0;
+}
+.title-dos {
+    padding-top: 20px;
+}
+.title-dos {
+    text-align: left;
+}

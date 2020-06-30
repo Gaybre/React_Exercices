@@ -1,0 +1,12 @@
+.title-header {
+    text-align: center;
+    padding: 20px 0;
+    font-family: Old English Text MT;
+    font-size: 1.9em;
+}
+.subtitle-header {
+    text-align: left;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+}
