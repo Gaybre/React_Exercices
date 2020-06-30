@@ -7,7 +7,7 @@ import './Globales.css'
 const TheNewYorkTimes = () => (
     <div className="container">
         <Header />
-        < Principal />
+        <Principal />
     </div>
 )
 

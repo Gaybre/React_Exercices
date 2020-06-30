@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+h2 {
+    margin: 20px auto;
+    text-align: left;
+}
+section {    
+    padding: 10px;
+}
+p,
+li {
+    font-size: .9em;
+}
+.header__title {
+    margin: 20px auto;
+    text-align: center;
+}
+.main {
+    width: 100%;
+}
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 90%;
+    margin: 0 auto;
+}
+.container__DatosLibro {
+    min-width: 250px;
+}
