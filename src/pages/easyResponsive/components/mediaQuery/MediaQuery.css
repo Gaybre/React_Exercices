@@ -1,23 +1,23 @@
 @media screen and (max-width: 1024px) {
-    .container {
+    .eResponsive_container {
         grid-template-columns: 1fr 3fr;
         grid-template-areas: 'left principal principal principal'
                              'left principal__Two principal__Two principal__Two';
     }
-    .container__DatosLibro {
+    .eResponsive_container__DatosLibro {
         grid-area: left;
     }
-    .container__DescripcionLibro {
+    .eResponsive_container__DescripcionLibro {
         grid-area: principal;
     }
-    .container__ContenidoLibro {
+    .eResponsive_container__ContenidoLibro {
         grid-area: principal__Two;
     }
-    .container__ContenidoLibro ul {
+    .eResponsive_container__ContenidoLibro ul {
         display: flex;
         padding: 0;
     }
-    .container__ContenidoLibro li {
+    .eResponsive_container__ContenidoLibro li {
         flex: 1;
         list-style: none;
         padding: 5px;
@@ -25,43 +25,43 @@
 }
 
 @media screen and (max-width: 768px) {
-    .header__title {
-        width: 90%;
-        margin: 0 auto;
-        padding: 10px;
-        text-align: left;
-    }
-    h2 {
-        margin-top: 0;
-    }
-    .container {
+    .eResponsive_container {
         grid-template-columns: 1fr;
         grid-template-areas: 'principal'
                              'principal__Two'
                              'principal__Three';
     }
-    .container__DatosLibro {
+    .eResponsive_header__title {
+        width: 90%;
+        margin: 0 auto;
+        padding: 10px;
+        text-align: left;
+    }
+    .eResponsive_h2 {
+        margin-top: 0;
+    }
+    .eResponsive_container__DatosLibro {
         grid-area: principal;
     }
-    .container__DescripcionLibro {
+    .eResponsive_container__DescripcionLibro {
         grid-area: principal__Two;
     }
-    .container__ContenidoLibro {
+    .eResponsive_container__ContenidoLibro {
         grid-area: principal__Three;
     }
-    .container__DatosLibro ul {
+    .eResponsive_container__DatosLibro ul {
         padding: 0;
         margin: 0;
     }
-    .container__DatosLibro li {
+    .eResponsive_container__DatosLibro li {
         list-style: none;
         display: inline;
     }
-    .container__ContenidoLibro ul {
+    .eResponsive_container__ContenidoLibro ul {
         display: block;
         padding-left: 30px;
     }
-    .container__ContenidoLibro li {
+    .eResponsive_container__ContenidoLibro li {
         list-style: disc;
     }
 }

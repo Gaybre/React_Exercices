@@ -1,8 +1,8 @@
 import React from 'react'
 
 const Main = (props) => (
-    <div className="main">
-        <div className="container">
+    <div className="eResponsive_main">
+        <div className="eResponsive_container">
             { props.children }
         </div>
     </div>

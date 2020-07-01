@@ -1,9 +1,9 @@
-.article__two-column {
+.tNYT_article__two-column {
     column-count: 4;
     column-fill: auto;
     text-align: justify;
 }
-.article__two-column h4 {
+.tNYT_article__two-column h4 {
     border-top: 2px solid #000;
     width: 75%;
     margin: 10px auto;

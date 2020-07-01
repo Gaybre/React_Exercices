@@ -1,0 +1,20 @@
+.webPage_main__entradaDestacada {
+    display: flex;
+    flex-wrap: wrap;
+}
+.webPage_main__entradaDestacada-info {
+    flex: 2;
+    min-width: 300px;
+}
+.webPage_main__entradaDestacada figure {
+    flex: 1;
+    min-width: 200px;
+    padding-top: 10px;
+    padding-left: 10px;
+    align-self: center;
+}
+.webPage_main__entradaDestacada img {
+    width: 100%;
+    border: 1px solid #E0E0E0;
+    padding: 4px;
+}

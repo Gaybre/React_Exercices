@@ -1,18 +1,19 @@
-.pincipal__left hr {
+.tNYT_pincipal__left hr {
     width: 60%;
     border: 1px solid #000;
+    margin: 10px auto;
 }
-.pincipal__left h1 {
+.tNYT_pincipal__left h1 {
     font-size: 1.6em;
 }
-.pincipal__left h2,
-.pincipal__left h3 {
+.tNYT_pincipal__left h2,
+.tNYT_pincipal__left h3 {
     font-size: 1.3em;
 }
-.pincipal__left h4 {
+.tNYT_pincipal__left h4 {
     font-size: .7em;
     padding-top: 10px;
 }
-.pincipal__left p {
+.tNYT_pincipal__left p {
     text-align: justify;
 }

@@ -1,0 +1,38 @@
+/*------------------------------------ titles */
+.WebPage_header__title {
+    font-size: 48px;
+    align-items: left;
+}
+.WebPage_header__subtitle {
+    font-size: 22px;
+    padding: 15px 0;
+    align-items: left;
+}
+/*------------------------------------ navbar */
+.WebPage_nav {
+    display: flex;
+    border-radius: 10px;
+    background-color: #E0E0E0;
+    text-align: center;
+}
+.WebPage_nav__ancla {
+    width: 100%;
+    padding: 20px 0;
+    color: #D32F2F;
+    text-decoration: none;
+    font-weight: 700;
+}
+.WebPage_nav__ancla:hover {
+    color: #EEE;
+    background-color: #D32F2F;
+}
+.WebPage_ancla-first {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: #D32F2F;
+    color: #EEE;
+}
+.WebPage_ancla-last {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}

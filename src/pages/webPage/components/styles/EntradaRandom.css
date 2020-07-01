@@ -1,0 +1,18 @@
+.webPage_entradaRandom {
+    display: flex;
+    flex-wrap: wrap;
+}
+.webPage_entradaRandom__container {
+    flex: 1;
+    min-width: 200px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    align-self: center;
+}
+.webPage_entradaRandom img {
+    width: 100%;
+}
+.webPage_entradaRandom__resume {
+    flex: 2;
+    min-width: 300px;
+}

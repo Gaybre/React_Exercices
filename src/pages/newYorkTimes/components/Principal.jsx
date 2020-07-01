@@ -6,7 +6,7 @@ import PrincipalRigth from './PrincipalRigth'
 import './styles/Principal.css'
 
 const Principal = () => (
-    <div className="principal">
+    <div className="tNYT_principal">
         <PrincipalLeft />
         <PrincipalCenter />
         <PrincipalRigth />

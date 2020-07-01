@@ -4,10 +4,10 @@ import './styles/Header.css'
 
 const Header = () => (
     <Fragment>
-        <div class="title-header">
-            <h1>The New York Times</h1>
+        <div className="tNYT_title-header">
+            <h1 className="tNYT_h1">The New York Times</h1>
         </div>
-        <div class="subtitle-header">
+        <div className="tNYT_subtitle-header">
             Contenido de subcabecera
         </div>
     </Fragment>

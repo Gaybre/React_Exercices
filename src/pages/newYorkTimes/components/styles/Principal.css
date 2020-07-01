@@ -1,8 +1,8 @@
-.principal {
+.tNYT_principal {
     display: grid;
     grid-template: 1fr / 1fr 4fr .5fr;
 }
-.principal section {
+.tNYT_principal section {
     padding: 0 10px;
     margin-top: 10px;
 }

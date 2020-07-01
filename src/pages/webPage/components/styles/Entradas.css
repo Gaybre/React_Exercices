@@ -1,0 +1,26 @@
+.webPage_article {
+    display: flex;
+}
+.webPage_article__data {
+    flex: 1;
+}
+.webPage_article__data span {
+    color: #D32F2F;
+}
+.webPage_verMas {
+    color: #D32F2F;
+    padding-top: 15px;
+}
+.webPage_verMas:hover,
+.webPage_article__data span:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.webPage_article__resume {
+    flex: 3;
+}
+.webPage_hr {
+    background-color: #f5f5f5;
+    margin: 15px 0;
+    opacity: .5;
+}

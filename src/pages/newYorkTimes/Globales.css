@@ -2,20 +2,24 @@
 
 body {
     margin: 0;
-    font-family: 'Times New Roman', Times, serif;
 }
-main {
+.tNYT_main {
     padding-bottom: 20px;
 }
-.container {
+.tNYT_container {
+    font-family: 'Times New Roman', Times, serif;
     display: grid;
     grid-template: auto auto 1fr / 1fr;
     margin: 0 10%;
+    margin-bottom: 20px;
 }
-h1,
-h2,
-h3,
-h4 {
+.tNYT_h1,
+.tNYT_h2,
+.tNYT_h3,
+.tNYT_h4 {
     margin: 0;
     text-align: center;
+}
+.tNYT_hr {
+
 }

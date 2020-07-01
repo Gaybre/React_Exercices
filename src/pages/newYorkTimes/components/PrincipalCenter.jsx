@@ -6,7 +6,7 @@ import ArticleTrhee from './ArticleThree'
 import './styles/PrincipalCenter.css'
 
 const PrincipalCenter = () => (
-    <section className="principal__center">
+    <section className="tNYT_principal__center">
         <ArticleOne />
         <ArticleTwo />
         <ArticleTrhee />

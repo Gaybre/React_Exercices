@@ -4,9 +4,11 @@ import FalconH from '../img/FalconHeavy.jpg'
 import './styles/ArticleThree.css'
 
 const ArticleTrhee = () => (
-    <article className="article__three">
-        <h2 class="title-dos">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</h2>
-        <div class="article__three-column">
+    <article className="tNYT_article__three">
+        <h2 className="tNYT_title-dos">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+        </h2>
+        <div className="tNYT_article__three-column">
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla reiciendis culpa, dolor voluptatum tenetur vero veritatis iusto ipsam nemo minima obcaecati! Consectetur eum harum deserunt dicta. Quod et atque dolores.
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod reiciendis illo laudantium, aperiam quos harum architecto. Officia laborum autem consectetur quo quos, mollitia pariatur soluta. Rerum recusandae illum in porro!

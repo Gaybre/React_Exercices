@@ -1,0 +1,11 @@
+.webPage_main section {
+    background-color: #FFF;
+    color: #757575;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 15px;
+}
+.webPage_articleTitle {
+    color: #D32F2F;
+    padding: 0 0 10px 0;
+}

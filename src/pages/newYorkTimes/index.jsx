@@ -5,7 +5,7 @@ import Principal from './components/Principal'
 import './Globales.css'
 
 const TheNewYorkTimes = () => (
-    <div className="container">
+    <div className="tNYT_container">
         <Header />
         <Principal />
     </div>

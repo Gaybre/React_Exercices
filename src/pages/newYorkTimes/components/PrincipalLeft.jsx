@@ -2,14 +2,22 @@ import React from 'react'
 import './styles/PrincipalLeft.css'
 
 const PrincipalLeft = () => (
-    <section className="pincipal__left">
-        <h1>LOREM IMSUM, DOLOR, SIT AMET</h1>
+    <section className="tNYT_pincipal__left">
+        <h1 className="tNYT_h1">
+            LOREM IMSUM, DOLOR, SIT AMET
+        </h1>
         <hr />
-        <h2>LOREM IMSUM</h2>
+        <h2 className="tNYT_h2">
+            LOREM IMSUM
+        </h2>
         <hr />
-        <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit</h3>
+        <h3 className="tNYT_h3">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit
+        </h3>
         <hr />
-        <h4>LOREM IMSUM, DOLOR</h4>
+        <h4 className="tNYT_h4">
+            LOREM IMSUM, DOLOR
+        </h4>
         <p>
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum itaque at facere optio animi officiis, consequatur perspiciatis voluptates, accusantium molestiae unde alias laboriosam recusandae mollitia qui quae dicta veritatis ipsa.
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum nisi in voluptatum beatae sit unde natus inventore maiores blanditiis velit! Aliquid numquam molestiae unde, pariatur deserunt dolorem? Quisquam, molestiae doloremque?
