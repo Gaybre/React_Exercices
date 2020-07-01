@@ -1,0 +1,55 @@
+/*-------- todas las variables estan declaradas en: 'src/components/globales.css'
+'cards' tiene 4 hijos directos: 'cards__item'
+*/
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+/*
+'cards__item' tien 2 hijos directos: 'figure' y 'cards__item-details'
+*/
+.cards__item {
+    width: 260px;
+    margin-bottom: 40px;
+    background-color: var(--color-blanco);
+    border: 1px solid var(--gris-bajo);
+}
+.cards__item:hover {
+    cursor: pointer;
+    box-shadow: 2px 2px 10px var(--gris-medio);
+}
+/*
+'cards__item-img' esta dentro de figure, 
+'figure' tiene borrado el margen en el archivo 'src/components/globales.css'
+*/
+.cards__item-img {
+    width: 100%;
+}
+/*
+'cards__item-details' tiene 3 hijos directos: 'h3=cards-title-n', 'hr' y 'p'
+*/
+.cards__item-details {
+    padding: 10px;
+    padding-bottom: 60px;
+}
+.cards__item-details h3 {
+    padding: 0 0 10px 10px;
+}
+.cards__item-details p {
+    padding-top: 10px;
+    color: var(--gris-medio);
+}
+.cards-title-1 {
+    color: var(--color-cards-1);
+}
+.cards-title-2 {
+    color: var(--color-cards-2);
+}
+.cards-title-3 {
+    color: var(--color-cards-3);
+}
+.cards-title-4 {
+    color: var(--color-cards-4);
+}

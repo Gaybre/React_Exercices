@@ -1,0 +1,82 @@
+/*-------- todas las variables estan declaradas en: 'src/components/globales.css'
+'general' tiene 3 hijos directos: general__article
+'general__article' = 'general__bienvenido','general__noticias' y 'general__servicios'
+*/
+.general {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-bottom: 60px;
+}
+/*
+general__article tiene 2 hijos directos: 'div' y 'button'
+*/
+.general__article {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-right: 30px;
+    max-width: 350px;
+    min-width: 250px;
+}
+/*
+Elementos repetidos dentro de 'general__article div'
+*/
+.general__article__title,
+.general__noticias-fecha {
+    color: var(--gris-alto);
+    margin: 20px 0;
+}
+.general__article p {
+    margin: 20px 0;
+    color: var(--gris-medio);
+}
+/*
+'general__bienvenido'
+*/
+.general__bienvenido span {
+    color: var(--color-rojo);
+}
+/*
+'general__noticias'
+*/
+.general__noticias-noticia:hover {
+    border-left: 1px solid var(--gris-bajo);
+    padding-left: 2px;
+    cursor: pointer;
+}
+/*
+'general__servicios'
+*/
+.general__servicios ul {
+    margin-top: 20px;
+    padding: 0 0 0 16px;
+    list-style: circle;
+}
+.general__servicios li {
+    line-height: 2.5em;
+}
+.general__servicios span {
+    color: var(--color-rojo);
+}
+.general__servicios li:hover,
+.general__bienvenido span:hover {
+    cursor: pointer;
+    text-decoration: underline var(--color-rojo);
+}
+/*
+'button' hijo de 'general__article'
+*/
+.general__article button {
+    margin-top: 50px;
+    width: max-content;
+    padding: 10px 20px;
+    background-color: var(--gris-alto);
+    color: var(--color-blanco);
+    font-weight: 600;
+    border: none;
+}
+.general__article button:hover {
+    cursor: pointer;
+    box-shadow: 1px 1px 10px var(--gris-medio);
+}

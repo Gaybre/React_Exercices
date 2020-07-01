@@ -1,0 +1,35 @@
+:root{
+    --color-bg: #f3f3f3;
+    --gris-alto: #434343;
+    --gris-medio: #7c7c7c;
+    --gris-bajo: #c9c9c9;
+    --color-rojo: #f91d1d;
+    --color-blanco: #fff;
+    --color-cards-1: #00779c;
+    --color-cards-2: #00c79c;
+    --color-cards-3: #ffbf16;
+    --color-cards-4: #ff381c;
+    --font-principal: 'Noto Sans JP';
+    --font-logo: 'Fugaz One';
+}
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+.corpSolutions_p {
+    line-height: 1.8em;
+}
+.corpSolutions_hr {
+    background-color: var(--gris-bajo);
+    opacity: .5;
+}
+.background__Container {
+    background-color: var(--color-bg);
+    font-family: var(--font-principal);
+    width: 100%;
+}
+.container {
+    width: 95%;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}

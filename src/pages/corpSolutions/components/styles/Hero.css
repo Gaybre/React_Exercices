@@ -1,0 +1,16 @@
+/*
+hero__titles tiene 2 hijos directos: 'title y 'subTitle'
+las variables estan declaradas en: 'src/components/globales.css'
+*/
+.hero__titles {
+    text-align: center;
+    padding: 20px 0;
+}
+.title {
+    font-size: 4em;
+    color: var(--gris-alto);
+}
+.subTitle {
+    font-size: 2.5em;
+    color: var(--gris-medio);
+}

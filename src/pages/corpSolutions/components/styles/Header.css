@@ -1,0 +1,40 @@
+/* 
+El header tiene 2 hijos directos 
+que serán 'header__logo' y 'header__nav'
+*/
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+}
+/*
+header__logo por el momento es texto
+las variables estan declaradas en: 'src/components/globales.css'
+*/
+.header__logo {
+    color: var(--gris-alto);
+    font-family: var(--font-logo);
+    font-size: 3em;
+}
+.header__logo:hover {
+    cursor: pointer;
+}
+.header__logo span {
+    color: var(--color-rojo);
+}
+/*
+header__nav
+las variables estan declaradas en: 'src/components/globales.css'
+*/
+.header__nav-item {
+    padding: 5px 15px;
+    text-decoration: none;
+    color: var(--gris-medio);
+}
+.header__nav-item:hover,
+.nav-item-active {
+    background-color: var(--color-rojo);
+    color: var(--color-blanco);
+}
