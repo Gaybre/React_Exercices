@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/React_Exercices/static/css/main.395c4ded.chunk.css",
+    "main.js": "/React_Exercices/static/js/main.850128c4.chunk.js",
+    "main.js.map": "/React_Exercices/static/js/main.850128c4.chunk.js.map",
+    "runtime-main.js": "/React_Exercices/static/js/runtime-main.6e4becd9.js",
+    "runtime-main.js.map": "/React_Exercices/static/js/runtime-main.6e4becd9.js.map",
+    "static/js/2.e6859db5.chunk.js": "/React_Exercices/static/js/2.e6859db5.chunk.js",
+    "static/js/2.e6859db5.chunk.js.map": "/React_Exercices/static/js/2.e6859db5.chunk.js.map",
+    "index.html": "/React_Exercices/index.html",
+    "precache-manifest.a0657a5ab3d56ddf0c48c516d1f5ac04.js": "/React_Exercices/precache-manifest.a0657a5ab3d56ddf0c48c516d1f5ac04.js",
+    "service-worker.js": "/React_Exercices/service-worker.js",
+    "static/css/main.395c4ded.chunk.css.map": "/React_Exercices/static/css/main.395c4ded.chunk.css.map",
+    "static/js/2.e6859db5.chunk.js.LICENSE.txt": "/React_Exercices/static/js/2.e6859db5.chunk.js.LICENSE.txt",
+    "static/media/FalconHeavy.jpg": "/React_Exercices/static/media/FalconHeavy.82a9b053.jpg",
+    "static/media/T-mec.jpg": "/React_Exercices/static/media/T-mec.7a8de557.jpg",
+    "static/media/analisis.png": "/React_Exercices/static/media/analisis.d5d8e16a.png",
+    "static/media/cat.png": "/React_Exercices/static/media/cat.8fb60edd.png",
+    "static/media/consultoria.png": "/React_Exercices/static/media/consultoria.f9e7bb67.png",
+    "static/media/corpSolutions.png": "/React_Exercices/static/media/corpSolutions.39701d7a.png",
+    "static/media/easyResponsive.png": "/React_Exercices/static/media/easyResponsive.2b6fd991.png",
+    "static/media/formacion.png": "/React_Exercices/static/media/formacion.2fa3729f.png",
+    "static/media/investigacion.png": "/React_Exercices/static/media/investigacion.e87b2917.png",
+    "static/media/newYorkTimes.png": "/React_Exercices/static/media/newYorkTimes.da503552.png",
+    "static/media/person.png": "/React_Exercices/static/media/person.5227ab32.png",
+    "static/media/webPage.png": "/React_Exercices/static/media/webPage.c8a7fc84.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e4becd9.js",
+    "static/js/2.e6859db5.chunk.js",
+    "static/css/main.395c4ded.chunk.css",
+    "static/js/main.850128c4.chunk.js"
+  ]
+}
