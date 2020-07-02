@@ -8,7 +8,7 @@ import Main from './components/Main'
 import EntradaDestacada from './components/EntradaDestacada'
 import Entradas from './components/Entradas'
 import EntradaRandom from './components/EntradaRandom'
-
+import ReturnToHome from '../home/components/ReturnToHome'
 
 const WebPage = () => (
     <div className="WebPage">
@@ -20,6 +20,7 @@ const WebPage = () => (
                 <EntradaRandom />
             </Main>
             <Footer />
+            <ReturnToHome />
         </div>
     </div>
     ) 
