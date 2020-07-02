@@ -5,6 +5,7 @@ import Header from './components/Header'
 import Hero from './components/Hero'
 import Cards from './components/Cards'
 import General from './components/General'
+import ReturnToHome from '../home/components/ReturnToHome'
 
 const CorpSolutions = () => (
     <div className="background__Container">
@@ -14,6 +15,7 @@ const CorpSolutions = () => (
             <Cards />
             <General />
             <hr className="corpSolutions_hr" />
+            <ReturnToHome />
         </div>
     </div>
 )

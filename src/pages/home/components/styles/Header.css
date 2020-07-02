@@ -1,0 +1,24 @@
+.home_header {
+    background-image: url(/static/media/wallpaper.2de6018c.png);
+    background-size: 70%;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-color: #00D9C0;
+    padding: 160px 0;
+    position: relative;
+}
+.entryTitle {
+    margin-left: 10px;
+    margin-right: 50%;
+    font-size: 3.8em;
+    position: absolute;
+    text-align: left;
+    top: 0;
+    /* display: block; */
+    color: #fff;
+}
+.header__name {
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+}

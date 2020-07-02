@@ -1,0 +1,19 @@
+.Home_footer {
+    background-color: #00D9C0;
+    width: 100%;
+}
+.Home_footer p {
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.footer__redes {
+    display: flex;
+    justify-content: center;
+}
+.footer__redes a {
+    margin-left: 20px;
+}
+.footer__redes a:hover {
+    transform: scale(1.1);
+}
