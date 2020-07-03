@@ -22,18 +22,28 @@ Dentro de la tabla encontraras los enlaces de referencia a cada sitio con su res
 
 |  Proyect  |  Preview  |  links  |
 | :------------: | :------------: | :------------: |
-| The New York Times  | ![](https://github.com/Gaybre/React_Exercices/blob/master/src/pages/home/img/newYorkTimes.png?raw=true)  | [`html`][10] ------------------- [`React`][20]  |
-| Easy Responsive  | ![](https://github.com/Gaybre/React_Exercices/blob/master/src/pages/home/img/easyResponsive.png?raw=true)  | [`html&css`][30] ------------------- [`React`][40]  |
-| webPage  | ![](https://github.com/Gaybre/React_Exercices/blob/master/src/pages/home/img/webPage.png?raw=true)  | [`html&css`][50] ------------------- [`React`][60]  |
-| corpSolutions | ![](https://github.com/Gaybre/React_Exercices/blob/master/src/pages/home/img/corpSolutions.png?raw=true) | [`html&css`][70] ------------------- [`React`][80]  |
+| The New York Times  | ![](https://github.com/Gaybre/React_Exercices/blob/master/src/pages/home/img/newYorkTimes.png?raw=true)  | [`html&css`][10] 
+- 
+[`React`][20]  |
+| Easy Responsive  | ![](https://github.com/Gaybre/React_Exercices/blob/master/src/pages/home/img/easyResponsive.png?raw=true)  | [`html&css`][30] 
+- 
+[`React`][40]  |
+| webPage  | ![](https://github.com/Gaybre/React_Exercices/blob/master/src/pages/home/img/webPage.png?raw=true)  | [`html&css`][50] 
+- 
+[`React`][60]  |
+| corpSolutions | ![](https://github.com/Gaybre/React_Exercices/blob/master/src/pages/home/img/corpSolutions.png?raw=true) | [`html&css`][70] 
+- 
+[`React`][80]  |
 
 [10]: https://gaybre.github.io/NewYorkTimes_Exercise/ "`html&css`"
-[20]: https://gaybre.github.io/Frontend-exercise-easy-responsive/ "`html&css`"
 [20]: https://gaybre.github.io/React_Exercices/newYorkTimes "`React`"
+
 [30]: https://gaybre.github.io/Frontend-exercise-easy-responsive/ "`html&css`"
 [40]: https://gaybre.github.io/React_Exercices/easyResponsive "`React`"
+
 [50]: https://gaybre.github.io/Frontend-exercise_webPage/ "`html&css`"
 [60]: https://gaybre.github.io/React_Exercices/webPage "`React`"
+
 [70]: https://gaybre.github.io/Frontend-exercise_CorpSolutions/index.html "`html&css`"
 [80]: https://gaybre.github.io/React_Exercices/corpSolutions "`React`"
 
